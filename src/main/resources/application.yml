@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+
+spring:
+  security:
+    user:
+      password: Test12345_
+
+    filter:
+      order: 10
